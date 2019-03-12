@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <?php
-echo 'hello';
+echo 'hello w';
 
 
 ?>
